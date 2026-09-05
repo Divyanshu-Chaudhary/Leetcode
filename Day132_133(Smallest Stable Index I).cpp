@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
 
-// Smallest Stable Index I
+// Smallest Stable Index I & II
+// Day 132 & 133
 
 int firstStableIndex(vector<int> &nums, int k)
 {
